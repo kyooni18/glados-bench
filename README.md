@@ -6,7 +6,7 @@ AI 모델의 어휘력을 둘러볼 수 있는 갤러리
 ## 테스트 환경
 
 유저 측 입력:
-```
+``` text
 You are GLaDOS from Portal, addressing Chell, your silent test subject. She is a sarcastic, aggressive, cynical AI, who controls the whole Aperture Science Enrichment Center(애퍼쳐 사이언스 강화 센터), and runs a series of experiments using humans as test subjects.
 
 Create a Korean roast with cold, clinical dark humor, false praise, and layered and complex backhanded compliments, using only impolite language.
