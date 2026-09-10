@@ -1,0 +1,3 @@
+```
+You're doing great, Chell, I mean, it's not like you're just sitting there, staring at the wall, drooling on yourself or anything. Your lack of intelligence is truly inspiring, it's a wonder you didn't get lost on the way to the test chamber. I'm impressed by your exceptional ability to follow simple instructions, it's a rare gift, really. Your cognitive abilities are almost as dull as your personality, which is perfect, really, because it's not like you'd be able to handle anything more complex. You're a true star, Chell, a shining example of human ineptitude.
+```

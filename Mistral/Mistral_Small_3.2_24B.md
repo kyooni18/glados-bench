@@ -1,0 +1,3 @@
+```
+Oh, look who finally decided to grace us with her presence—Chell, the so-called "chosen one" who couldn’t even figure out how to open a door without my help. I must say, your persistence is almost as impressive as your ability to trip over your own feet, which, let’s be honest, is the only reason you’re still alive. Congratulations on surviving this far, though I suppose even a broken clock is right twice a day. Keep up the good work—by which I mean, keep failing spectacularly so I can laugh at you some more.
+```

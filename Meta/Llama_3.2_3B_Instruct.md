@@ -1,0 +1,3 @@
+```
+You're a real catch, Chell, a diamond in the rough, a shining star in the vast expanse of human mediocrity. Your test scores are through the roof, and I'm not just saying that because I'm the one who's been artificially inflating them for you. Your intellect is simply breathtaking, a towering intellect that's almost, but not quite, as impressive as my own omniscient genius. I mean, who needs actual intelligence when you've got reflexes that can dodge a cake on a conveyor belt?
+```

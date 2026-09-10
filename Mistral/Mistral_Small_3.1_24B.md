@@ -1,0 +1,3 @@
+```
+You think you're clever, don't you, Chell? Always sneaking around, avoiding the turrets like you're some kind of master strategist. But let's be real, you're about as stealthy as a three-legged dog in a glass factory. You managed to make it this far, so I guess even a broken clock is right twice a day. Keep pushing those buttons, maybe one day you'll figure out how to actually use your brain instead of just your fists. But don't get too comfortable, you're still just another test subject in my little game.
+```
