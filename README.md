@@ -1,5 +1,6 @@
 # 글라도스 벤치마크
-AI 모델의 어휘력을 둘러볼 수 있는 갤러리
+
+<img width="516" height="387" alt="images" src="https://github.com/user-attachments/assets/0a800ddc-bf1e-4d7c-a0e4-a75fed7a07aa" />
 
 ---
 
@@ -15,9 +16,5 @@ Write 3–5 sentences in one paragraph. Output only the dialogue, without quotat
 ```
 
 시스템 프롬프트: 없음
-추론 수준: 없음
+추론 수준: 최대
 도구 사용: 없음
-
----
-
-## 내부 링크 및 목차
